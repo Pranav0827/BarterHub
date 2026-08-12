@@ -64,7 +64,7 @@ public class Login extends Application {
         HBox whole = new HBox(50,hb2,vb);
 
         stage.setTitle("Login Page");
-        Scene sc = new Scene(whole,1200,800);
+        Scene sc = new Scene(whole,1100,800);
         stage.setScene(sc);
         stage.show();
     }
